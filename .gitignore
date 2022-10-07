@@ -1,0 +1,12 @@
+/*.csproj
+/*.sln
+/.idea/
+/.vs/
+/.vscode/
+/Library/
+/Logs/
+/Temp/
+/UserSettings/
+/obj/
+
+.DS_Store

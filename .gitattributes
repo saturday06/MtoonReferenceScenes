@@ -1,0 +1,8 @@
+* -text
+/.* text eol=lf
+/Assets/MtoonReferenceScenes/**/*.cs text eol=crlf
+/Assets/MtoonReferenceScenes/**/*.rsp text eol=lf
+/Assets/MtoonReferenceScenes/**/*.shader text eol=lf
+/Assets/MtoonReferenceScenes/**/*.cginc text eol=lf
+/Assets/MtoonReferenceScenes/**/*.asmdef text eol=lf
+/Assets/MtoonReferenceScenes/**/*.json text eol=lf
