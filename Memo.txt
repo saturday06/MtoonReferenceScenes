@@ -1,0 +1,5 @@
+Unlitのマテリアル
+https://docs.blender.org/manual/ja/3.3/addons/import_export/scene_gltf2.html#exporting-a-shadeless-unlit-material
+
+dskjalさんのページ。画像は直接Material Outputには付けない
+https://dskjal.com/blender/eevee-cell-shading.html#composite-normal
