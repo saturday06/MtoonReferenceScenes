@@ -111,9 +111,9 @@ Material:
     - _RimFresnelPower: 0
     - _RimLift: 0
     - _RimLightingMix: 1
-    - _ShadingShiftFactor: -0.5
+    - _ShadingShiftFactor: -0.59
     - _ShadingShiftTexScale: 1
-    - _ShadingToonyFactor: 0.5
+    - _ShadingToonyFactor: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
