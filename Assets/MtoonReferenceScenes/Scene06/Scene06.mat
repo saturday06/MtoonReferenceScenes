@@ -111,7 +111,7 @@ Material:
     - _OutlineWidthMode: 0
     - _Parallax: 0.02
     - _RenderQueueOffset: 0
-    - _RimFresnelPower: 1
+    - _RimFresnelPower: 2
     - _RimLift: 0
     - _RimLightingMix: 0
     - _ShadingShiftFactor: -0.6
