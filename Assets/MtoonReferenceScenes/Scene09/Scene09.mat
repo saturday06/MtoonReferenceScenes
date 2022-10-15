@@ -70,7 +70,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _RimTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 10d4329d6523c4b17b94f16656f85a9f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadeTex:
@@ -82,13 +82,13 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _UvAnimMaskTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 58a9b8be75944404f8751c4e73dc4d7e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
     - _AlphaMode: 0
-    - _BumpScale: 0
+    - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DoubleSided: 0
@@ -113,10 +113,10 @@ Material:
     - _Parallax: 0.02
     - _RenderQueueOffset: 0
     - _RimFresnelPower: 15
-    - _RimLift: 0.2
+    - _RimLift: 0.5
     - _RimLightingMix: 1
     - _ShadingShiftFactor: -0.6
-    - _ShadingShiftTexScale: 0
+    - _ShadingShiftTexScale: 0.4
     - _ShadingToonyFactor: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -124,14 +124,14 @@ Material:
     - _TransparentWithZWrite: 0
     - _UVSec: 0
     - _UvAnimRotationSpeed: 0
-    - _UvAnimScrollXSpeed: 0
-    - _UvAnimScrollYSpeed: 0
+    - _UvAnimScrollXSpeed: 0.2
+    - _UvAnimScrollYSpeed: 0.05
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 0.5, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MatcapColor: {r: 0, g: 0, b: 0, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
-    - _RimColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 0, g: 1, b: 1, a: 1}
     - _ShadeColor: {r: 0.5, g: 0, b: 1, a: 1}
   m_BuildTextureStacks: []
