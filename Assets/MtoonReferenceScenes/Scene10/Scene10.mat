@@ -11,7 +11,6 @@ Material:
   m_Shader: {fileID: 4800000, guid: e0edbf68d81d1f340ae8b110086b7063, type: 3}
   m_ValidKeywords:
   - _MTOON_EMISSIVEMAP
-  - _MTOON_PARAMETERMAP
   - _MTOON_RIMMAP
   - _NORMALMAP
   m_InvalidKeywords: []
@@ -50,7 +49,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MatcapTex:
-        m_Texture: {fileID: 2800000, guid: f48d75c8f8f204aa889a829acd312236, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -78,7 +77,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadingShiftTex:
-        m_Texture: {fileID: 2800000, guid: b941d9a6a05d74c2fa2678bcf1513198, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _UvAnimMaskTex:
@@ -115,9 +114,9 @@ Material:
     - _RimFresnelPower: 15
     - _RimLift: 0.5
     - _RimLightingMix: 1
-    - _ShadingShiftFactor: -0.6
-    - _ShadingShiftTexScale: 0
-    - _ShadingToonyFactor: 1
+    - _ShadingShiftFactor: -0.5
+    - _ShadingShiftTexScale: 1
+    - _ShadingToonyFactor: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -128,10 +127,10 @@ Material:
     - _UvAnimScrollYSpeed: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0, g: 0, b: 1, a: 0.5019608}
+    - _Color: {r: 1, g: 1, b: 1, a: 0.5019608}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MatcapColor: {r: 0, g: 0, b: 0, a: 1}
+    - _MatcapColor: {r: 0.6698113, g: 0.2748754, b: 0.2748754, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _RimColor: {r: 0, g: 0, b: 0, a: 1}
-    - _ShadeColor: {r: 1, g: 0, b: 0, a: 1}
+    - _ShadeColor: {r: 0, g: 0, b: 1, a: 1}
   m_BuildTextureStacks: []

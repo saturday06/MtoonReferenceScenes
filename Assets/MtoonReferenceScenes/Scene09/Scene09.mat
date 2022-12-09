@@ -124,8 +124,8 @@ Material:
     - _TransparentWithZWrite: 0
     - _UVSec: 0
     - _UvAnimRotationSpeed: 0
-    - _UvAnimScrollXSpeed: 0.2
-    - _UvAnimScrollYSpeed: 0.05
+    - _UvAnimScrollXSpeed: 0
+    - _UvAnimScrollYSpeed: 0
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 0.5, b: 1, a: 1}
